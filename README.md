@@ -4,8 +4,11 @@ Promoción IV Servicios de TI.
 
 DGTIC-UNAM
 
-Alumno: [TU NOMBRE] [E-MAIL]
+Alumno: César Gustavo Sánchez de la Rosa
 
+e-mail : cesartavo@ciencias.unam.mx
+
+---
 Responsables: 
 
 - Laura Liyen Galicia Peñaloza
