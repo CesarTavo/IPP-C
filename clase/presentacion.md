@@ -12,7 +12,7 @@ theme:
 ## Operadores Aritméticos
 
 
-| Operación C | Operador aritméco | Expresiólgebraica | Expresión C |
+| Operación | Operador aritmético | Exp. algebraica | Exp. C |
 |:--:	|:--:	|:-:	|:-:	|
 |  Suma |  + 	| f + 7	|  f + 7 |
 |  Resta | - 	| p - c	| p - c	|
@@ -26,7 +26,28 @@ theme:
 
 ## Precedencia de Operadores
 
+| Operador(es) | Operación(es) | Orden de evaluación (precedencia) |
+|:--:|:--:|:-:|
+| `*` | Multiplicación | Se evalúan primero. |
+| / | División |   |
+| % | Módulo |  |
+| + | Suma  | De izquierda a derecha. |
+| - | Resta |  |
+
+## Precedencia de Operadores
+
 ![Precedencia de Operadores](precedencia-operadores.jpg)
+
+## Operadores de Igualdad y Relación
+
+| Operador en C | Ejemplo | Significado |
+|:--:|:--:|:-:|
+| == | x == y |`x` es igual que `y` |
+| != |x != y |`x` no es igual que `y`  |
+| > |x > y |`x` mayor que `y` |
+| < |x < y  |`x` menor que `y` |
+| >= |x >= y |`x` mayor o igual que `y`  |
+| <= |x <= y |`x` menor o igual que `y`  |
 
 ## Operadores de Igualdad y Relación
 
