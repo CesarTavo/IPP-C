@@ -45,7 +45,7 @@ Con un Switch pedirle que conversión quiere hacer  e imprimirle el resultado.
 [ ] 13. Dada la siguiente tabla realice el programa especificado abajo
 
 | Signo | Categoría |
-|:--:	|:--:	|
+|:--	|:--	|
 | 1. Aries | Fuego |
 | 2. Tauro | Tierra | 
 | 3. Géminis|  Aire |
@@ -70,3 +70,40 @@ Con un Switch pedirle que conversión quiere hacer  e imprimirle el resultado.
 a) El área del triángulo rectángulo de base A y altura C.
 b) El área del cuadrado de lado B.
 c) El área del rectángulo de lados A y B. 
+
+[ ] 17. Te enuentras en la tienda de Don Toño.
+Usa la siguiente tabla para hacer el programa, debes de escribir un programa 
+que de la bienvenida al usuario de comprar en la tienda de Don Toño y que
+lea el código y la cantidad del producto. Acto seguido debe de imprimir 
+el valor a pagar y darle las gracias al usuario por haber comprado en Don Toño.
+
+|Código | Nombre           | Precio |
+|:--    | :--              | :--    |
+| W3m   | Chocotorro       | $12.50 |
+| yum   | Coca-cola        | $15.50 |
+| emacs | Huevo            | $20.00 |
+| i3m   | Leche            | $23.75 |
+| 7     | Tacos de Canasta | $25.00 |
+
+[ ] 16. Debes de leer un programa que lea un número de punto flotante y 
+decir si pertenece al intervalo [0,20],(20,40],(40,60],(60,80],(80,100].
+Sí el número es menor a cero o mayor que 100 decir que "Esta fuera del intervalo".
+Usar sentencias `if`
+
+[ ] 17. Lea dos números e imprimir la suma desde el número menor
+hasta el número mayor. Ej. Si se introducen `5` y `1`, imprimir: `1 2 3 4 5`
+`La suma es 15`  
+
+[ ] 18. Hacer un programa que haga la secuencia de fibonacci.
+Escribe un algoritmo que lea un entero menor a 46 y que imprima los `n` numeros
+de la secuencia de fibonacci.
+
+[ ] 19. Hacer un programa que calcule el factorial de un número.
+Escribe un algoritmo que lea un entero mayor que cero pero menor a `13` 
+y que calcule su correspondiente factorial. 
+Factorial de `N = N*(N-1)*(N-2)*(N-3)*...*1`
+
+[ ] 20. Haga un programa que lea una cantidad indeterminada de números de datos,
+cada dato que se ingrese sea una edad de una persona. El último dato no debe de
+entrar en las operaciones a calcular, debe de ser un valor negativo.
+Calcular e imprimir el promedio de años de este grupo de individuos.
