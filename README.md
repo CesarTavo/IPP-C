@@ -15,5 +15,6 @@ Responsables:
 - Susana Torres Reynoso
 
 Formación de Recursos Humanos
+
 Dirección de Sistemas y Servicios Institucionales
 ```
