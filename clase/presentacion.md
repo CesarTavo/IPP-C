@@ -11,11 +11,16 @@ theme:
 
 ## Operadores Aritméticos
 
-|===|===|===|===|
-|Operacióon en C | Operador aritmético | Expresión algebraica | Expresión en C
-|:===:|:===:|:===:|:===:|
 
-## Operaddores Aritéticos
+| Operación C | Operador aritméco | Expresiólgebraica | Expresión C |
+|:--:	|:--:	|:-:	|:-:	|
+|  Suma |  + 	| f + 7	|  f + 7 |
+|  Resta | - 	| p - c	| p - c	|
+|  Multiplicación |  * 	| bm	b*m | b * m |
+|  División | / | x/y |  x / y |
+|  Módulo |  % 	| r mod s | r % s |
+
+## Operadores Aritéticos
 
 ![Operadores Aritméticos](operadores-aritmeticos.jpg)
 
