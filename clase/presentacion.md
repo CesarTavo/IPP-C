@@ -16,7 +16,7 @@ theme:
 |:--:	|:--:	|:-:	|:-:	|
 |  Suma |  + 	| f + 7	|  f + 7 |
 |  Resta | - 	| p - c	| p - c	|
-|  Multiplicación |  * 	| bm	b*m | b * m |
+|  Multiplicación |  * 	| bm o b*m | b*m | 
 |  División | / | x/y |  x / y |
 |  Módulo |  % 	| r mod s | r % s |
 
