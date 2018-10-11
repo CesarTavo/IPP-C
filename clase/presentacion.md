@@ -4,12 +4,18 @@ title:
 author:
 - Francisco Martínez & César Sánchez
 theme:
-- metropolis
+- Hannover
 ---
 
 # Aritmética en C
 
 ## Operadores Aritméticos
+
+|===|===|===|===|
+|Operacióon en C | Operador aritmético | Expresión algebraica | Expresión en C
+|:===:|:===:|:===:|:===:|
+
+## Operaddores Aritéticos
 
 ![Operadores Aritméticos](operadores-aritmeticos.jpg)
 
