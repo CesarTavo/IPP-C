@@ -4,7 +4,7 @@ title:
 author:
 - Francisco Martínez & César Sánchez
 theme:
-- Hannover
+- metropolis
 ---
 
 # Aritmética en C
