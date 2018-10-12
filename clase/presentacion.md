@@ -247,3 +247,32 @@ y un caracter para decidir que operación se quiere hacer.
 Se le debe de mostrar al usuario un menú de opciones para realizar la operación.
 Acto seguido el usuario ingresa los números y el programa devuelve el resultado.
 
+## Ejercicios
+
+- Hacer un programa que resuelva ecuaciones de segundo grado usando la formula general.
+Recuerda que `2a!=0` y `(b^2-4ac)>=0` para efectos prácticos.
+
+- Hacer un programa que haga conversiones de tiempo. Segundo-Minuto-Hora-Día-Años. 
+Con un Switch pedirle que conversión quiere hacer  e imprimirle el resultado.
+
+## Ejercicios
+
+| Signo | Categoría |
+| 1. Aries | Fuego |
+| 2. Tauro | Tierra | 
+| 3. Géminis|  Aire |
+| 4. Cáncer | Agua |
+| 5. Leo | Fuego |
+| 6. Virgo | Tierra |
+| 7. Libra | Aire |
+| 8. Escorpio | Agua |
+| 9. Sagitario | Fuego |
+| 10. Capricornio | Tierra |
+| 11. Acuario | Aire |
+| 12. Piscis | Agua |
+
+## Ejercicios
+
+1. Muestre el listado de los signos del zodiaco, con sus números asociados.
+2. Pida por teclado un número (entero) asociado a un signo del zodiaco.
+3. Muestre la categoría a la que pertenece el signo del zodíaco seleccionado.
