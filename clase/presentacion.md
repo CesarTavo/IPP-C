@@ -258,6 +258,7 @@ Con un Switch pedirle que conversión quiere hacer  e imprimirle el resultado.
 ## Ejercicios
 
 | Signo | Categoría |
+|:--:	|:--:	|
 | 1. Aries | Fuego |
 | 2. Tauro | Tierra | 
 | 3. Géminis|  Aire |
