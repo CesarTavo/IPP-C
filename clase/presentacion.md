@@ -255,6 +255,8 @@ Recuerda que `2a!=0` y `(b^2-4ac)>=0` para efectos prácticos.
 - Hacer un programa que haga conversiones de tiempo. Segundo-Minuto-Hora-Día-Años. 
 Con un Switch pedirle que conversión quiere hacer  e imprimirle el resultado.
 
+\pagebreak
+
 ## Ejercicios
 
 | Signo | Categoría |
