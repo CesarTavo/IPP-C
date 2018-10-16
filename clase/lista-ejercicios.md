@@ -116,14 +116,14 @@ Hacer el juego de piedra papel o tijera, recuerda que:
 - Papel gana sobre piedra.
 
 Imagina que dos usuarios quieren jugar piedra papel o tijera, el usuario1
-ingresa su opción, acto seguido el usuaario2 ingresa su opción
+ingresa su opción, acto seguido el usuario2 ingresa su opción
 y debes de imprimir si fue un empate o que usuario gano.
 
 [ ] 23. Triángulos.
 
 Laura, Daniela y Diana estaban haciendo su trabajo para geometría y tennían
 que hacer unos triángulos, pronto se dieron cuenta que si tenían 4 varillas
-de distintos tamaños había algunas veces que no se pododían hacer los triángulos.
+de distintos tamaños había algunas veces que no se podían hacer los triángulos.
 
 Haz un programa que dados 4 números , que representan la longitud de las varillas.
 Decir si es posible hacer un triángulo. Recuerda que todo triángulo 
