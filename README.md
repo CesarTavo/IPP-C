@@ -4,9 +4,7 @@ Promoción IV Servicios de TI.
 
 DGTIC-UNAM
 
-Alumno: César Gustavo Sánchez de la Rosa
-
-e-mail : cesartavo@ciencias.unam.mx
+Alumno: César Tavo
 
 ---
 Responsables: 
