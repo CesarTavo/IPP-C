@@ -1,6 +1,6 @@
 ---
 title:	
-- Programación en C
+- Introducción a la Programación en C
 author:
 - Francisco Martínez & César Sánchez
 theme:
@@ -12,13 +12,13 @@ theme:
 ## Operadores Aritméticos
 
 
-| Operación | Operador aritmético | Exp. algebraica | Exp. C |
-|:--:	|:--:	|:-:	|:-:	|
-|  Suma |  + 	| f + 7	|  f + 7 |
-|  Resta | - 	| p - c	| p - c	|
-|  Multiplicación |  * 	| bm o `b*m` | `b*m` | 
-|  División | / | x/y |  x / y |
-|  Módulo |  % 	| r mod s | r % s |
+| Operación      | Operador aritmético | Exp. algebraica | Exp. C |
+| :--:           | :--:                | :-:             | :-:    |
+| Suma           | +                   | f + 7           | f + 7  |
+| Resta          | -                   | p - c           | p - c  |
+| Multiplicación | *                   | bm o `b*m`      | `b*m`  |
+| División       | /                   | x/y             | x / y  |
+| Módulo         | %                   | r mod s         | r % s  |
 
 ## Operadores Aritéticos
 
@@ -26,13 +26,13 @@ theme:
 
 ## Precedencia de Operadores
 
-| Operador(es) | Operación(es) | Orden de evaluación (precedencia) |
-|:--:|:--:|:-:|
-| `*` | Multiplicación | Se evalúan primero. |
-| / | División |   |
-| % | Módulo |  |
-| + | Suma  | De izquierda a derecha. |
-| - | Resta |  |
+| Operador(es) | Operación(es)  | Orden de evaluación (precedencia) |
+| :--:         | :--:           | :-:                               |
+| `*`          | Multiplicación | Se evalúan primero.               |
+| /            | División       |                                   |
+| %            | Módulo         |                                   |
+| +            | Suma           | De izquierda a derecha.           |
+| -            | Resta          |                                   |
 
 ## Precedencia de Operadores
 
@@ -40,14 +40,14 @@ theme:
 
 ## Operadores de Igualdad y Relación
 
-| Operador en C | Ejemplo | Significado |
-|:--:|:--:|:-:|
-| == | x == y |`x` es igual que `y` |
-| != |x != y |`x` no es igual que `y`  |
-| > |x > y |`x` mayor que `y` |
-| < |x < y  |`x` menor que `y` |
-| >= |x >= y |`x` mayor o igual que `y`  |
-| <= |x <= y |`x` menor o igual que `y`  |
+| Operador en C | Ejemplo | Significado               |
+| :--:          | :--:    | :-:                       |
+| ==            | x == y  | `x` es igual que `y`      |
+| !=            | x != y  | `x` no es igual que `y`   |
+| >             | x > y   | `x` mayor que `y`         |
+| <             | x < y   | `x` menor que `y`         |
+| >=            | x >= y  | `x` mayor o igual que `y` |
+| <=            | x <= y  | `x` menor o igual que `y` |
 
 ## Operadores de Igualdad y Relación
 
@@ -259,20 +259,20 @@ Con un Switch pedirle que conversión quiere hacer  e imprimirle el resultado.
 
 ## Ejercicios
 
-| Signo | Categoría |
-|:--:	|:--:	|
-| 1. Aries | Fuego |
-| 2. Tauro | Tierra | 
-| 3. Géminis|  Aire |
-| 4. Cáncer | Agua |
-| 5. Leo | Fuego |
-| 6. Virgo | Tierra |
-| 7. Libra | Aire |
-| 8. Escorpio | Agua |
-| 9. Sagitario | Fuego |
-| 10. Capricornio | Tierra |
-| 11. Acuario | Aire |
-| 12. Piscis | Agua |
+| Signo           | Categoría |
+| :--:            | :--:      |
+| 1. Aries        | Fuego     |
+| 2. Tauro        | Tierra    |
+| 3. Géminis      | Aire      |
+| 4. Cáncer       | Agua      |
+| 5. Leo          | Fuego     |
+| 6. Virgo        | Tierra    |
+| 7. Libra        | Aire      |
+| 8. Escorpio     | Agua      |
+| 9. Sagitario    | Fuego     |
+| 10. Capricornio | Tierra    |
+| 11. Acuario     | Aire      |
+| 12. Piscis      | Agua      |
 
 ## Ejercicios
 
